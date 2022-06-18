@@ -1,0 +1,1 @@
+This project will automatically sync your calander of your mobile device with your CSM service. It will then notify when and if you have assignments coming up each day.
